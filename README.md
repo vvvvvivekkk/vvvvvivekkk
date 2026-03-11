@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**vvvvvivekkk/vvvvvivekkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...# 💫 About Me:
+# 💫 About Me:
 💫 About Me<br><br>🔭 I’m currently working on AI-powered web applications and machine learning systems<br><br>👯 I’m looking to collaborate on open-source AI, ML, and FastAPI projects<br><br>🤝 I’m looking for help with advanced deep learning models and scalable ML deployment<br><br>🌱 I’m currently learning MLOps, LLM integrations, and cloud deployment<br><br>💬 Ask me about Python, Machine Learning, FastAPI, and AI project development<br><br>⚡ Fun fact: I enjoy turning complex AI ideas into practical applications<br><br>🚀 Current Projects<br><br>• Air Quality Prediction using Temporal Fusion Transformer<br>• Secure Image Encryption & Transfer System<br>• AI Medical Report Explainer
 
 
@@ -40,7 +29,3 @@ Here are some ideas to get you started:
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
