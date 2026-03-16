@@ -54,11 +54,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vvvvvivekkk&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true" width="32%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vvvvvivekkk&theme=highcontrast&hide_border=false" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvvvvivekkk&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vvvvvivekkk&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vvvvvivekkk&theme=highcontrast&hide_border=false" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvvvvivekkk&theme=highcontrast&hide_border=false&layout=compact" height="170"/>
+</p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vvvvvivekkk&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4)
 
