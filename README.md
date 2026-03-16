@@ -51,10 +51,13 @@
 <img src="https://img.shields.io/badge/render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
 
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vvvvvivekkk&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vvvvvivekkk&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vvvvvivekkk&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vvvvvivekkk&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true" width="32%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vvvvvivekkk&theme=highcontrast&hide_border=false" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvvvvivekkk&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="32%" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vvvvvivekkk&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4)
